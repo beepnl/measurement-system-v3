@@ -21,7 +21,7 @@ The folder 'frame' contains the drawings of the stainless steel parts and the st
 
 ### hardware/pcb
 The pcb of the measurement system contains a lot of features, that can be seen in the image below:
-![BEEP base - PCB v3](https://github.com/beepnl/measurement-system-v3/blob/master/hardware/pcb/beep-pcb-v3.png)
+![BEEP base - PCB v3](https://github.com/beepnl/measurement-system-v3/blob/master/hardware/pcb/beep-pcb-v3.jpg)
 
 The folder 'electronics' contains the gerber files and the schematic.
 
