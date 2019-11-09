@@ -30,7 +30,7 @@ With the Gerber files, you can directly order a PCB. It contains all files requi
 ## Assembly
 
 The assembly is straight forward and can be seen in this video:
-![BEEP base - Assembly](https://youtu.be/ZGfoobvGa-Y)
+[BEEP base - Assembly](https://youtu.be/ZGfoobvGa-Y)
 
 ## Firmware
 In the 'firmware' folder, the HEX bootloader and the standard BEEP application will be shared as soon as they are finished.
