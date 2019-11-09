@@ -14,14 +14,14 @@ This version features a:
 
 The measurement system frame holds the weight sensor and the electonics box housing, and functions as a stiff weighing frame construction.
 
-![BEEP measurement system v3](https://github.com/beepnl/measurement-system-v3/raw/master/hardware/beep-base-v3.png)
+![BEEP base v3](https://github.com/beepnl/measurement-system-v3/raw/master/hardware/beep-base-v3.png)
 
 ### hardware/frame
 The folder 'frame' contains the drawings of the stainless steel parts and the standard waterproof casing drill holes. 
 
 ### hardware/pcb
 The pcb of the measurement system contains a lot of features, that can be seen in the image below:
-![BEEP PCB v3](https://github.com/beepnl/measurement-system-v3/raw/master/hardware/pcb/beep-pcb-v3.png)
+![BEEP base - PCB v3](https://github.com/beepnl/measurement-system-v3/blob/master/hardware/pcb/beep-pcb-v3.png)
 
 The folder 'electronics' contains the gerber files and the schematic.
 
@@ -30,7 +30,7 @@ With the Gerber files, you can directly order a PCB. It contains all files requi
 ## Assembly
 
 The assembly is straight forward and can be seen in this video:
-![BEEP measurement system - PCB](https://github.com/beepnl/measurement-system/raw/master/electronics/Beep-PCB-v1.4-in-casing.jpg)
+![BEEP base - Assembly](https://youtu.be/ZGfoobvGa-Y)
 
 ## Firmware
 In the 'firmware' folder, the HEX bootloader and the standard BEEP application will be shared as soon as they are finished.
