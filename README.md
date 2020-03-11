@@ -35,7 +35,7 @@ The assembly is straight forward and can be seen in this video:
 ## Firmware
 In the 'firmware' folder, the HEX bootloader and the standard BEEP application are available.
 
-You can update the firmware over the air via the Nordic NRF connect app. Then you have the full BLE and LoRa API to your possession to configre the PCB as you like. See the ![manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP%20base%20-%20ID190222-02%20-%20Firmware%20-%20English.pdf) for all firmware and BLE API features. You will be amazed :-) 
+You can update the firmware over the air via the Nordic NRF connect app. Then you have the full BLE and LoRa API to your possession to configre the PCB as you like. See the [manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP%20base%20-%20ID190222-02%20-%20Firmware%20-%20English.pdf) for all firmware and BLE API features. You will be amazed :-) 
 
 ### firmware/Source
 
