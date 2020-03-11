@@ -35,7 +35,7 @@ The assembly is straight forward and can be seen in this video:
 ## Firmware
 In the 'firmware' folder, the HEX bootloader and the standard BEEP application are available.
 
-You can update the firmware over the air via the Nordic NRF connect app. Then you have the full BLE and LoRa API to your possession to configre the PCB as you like. See the [manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP_base_firmware_v1.3.2_manual_NL.pdf) for all firmware and BLE API features. You will be amazed :-) 
+You can update the firmware over the air via the Nordic NRF connect app. Then you have the full BLE and LoRa API to your possession to configre the PCB as you like. See the ![manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP%20base%20-%20ID190222-02%20-%20Firmware%20-%20English.pdf) for all firmware and BLE API features. You will be amazed :-) 
 
 ### firmware/Source
 
@@ -47,7 +47,7 @@ Before coding:
 
 - Please make sure you install the Nordic SDK 15.3 and place it in the folder `firmware/Source/Code/nRF/nRF5_SDK_15.3`
 - Let `nrfutil` create the `firmware/Source/Code/nRF/Key` folder for you with files: `private.key` and `public_key.c`
-- Read from page 60 onward in the ![English firmware manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP base - ID190222-02 - Firmware - English.pdf)
+- Read from page 60 onward in the [English firmware manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP%20base%20-%20ID190222-02%20-%20Firmware%20-%20English.pdf)
 
 
 Happy coding!
