@@ -1,2 +1,5 @@
-
-firmware/.DS_Store
+.DS_Store
+key/
+ses
+nRF5_SDK_15.3/
+Octave/

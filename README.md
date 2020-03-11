@@ -37,5 +37,22 @@ In the 'firmware' folder, the HEX bootloader and the standard BEEP application a
 
 You can update the firmware over the air via the Nordic NRF connect app. Then you have the full BLE and LoRa API to your possession to configre the PCB as you like. See the [manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP_base_firmware_v1.3.2_manual_NL.pdf) for all firmware and BLE API features. You will be amazed :-) 
 
+### firmware/Source
+
+In the `Source/Code` folder, there is the Nordic nRF code to build your own version of the firmware.
+
+In the `Source/Datasheets` folder, there is the list of used sensor specifications that are present on the PCB.
+
+Before coding:
+
+- Please make sure you install the Nordic SDK 15.3 and place it in the folder `firmware/Source/Code/nRF/nRF5_SDK_15.3`
+- Let `nrfutil` create the `firmware/Source/Code/nRF/Key` folder for you with files: `private.key` and `public_key.c`
+- Read from page 60 onward in the ![English firmware manual](https://github.com/beepnl/measurement-system-v3/blob/master/firmware/BEEP base - ID190222-02 - Firmware - English.pdf)
+
+
+Happy coding!
+
+Pleas do a pull request for every sensor you add :-)
+
 ## Improvements
 If you have improvements, or ideas for creating a better frame, please send an e-mail to pim@beep.nl explaining your thoughts. Or just fork this repo, and do a pull request with you adjustments, or additions.
