@@ -1,7 +1,8 @@
 .DS_Store
 key/
-ses
+ses/Output/
 Octave/
+*Debug
 *.msi
 firmware/Source/Code/nRF/nRF5_SDK_15.3/config/
 !firmware/Source/Code/nRF/nRF5_SDK_15.3/documentation/
