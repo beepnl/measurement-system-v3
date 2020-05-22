@@ -18,3 +18,6 @@ firmware/Source/Code/nRF/nRF5_SDK_15.3/components/ble/*
 !firmware/Source/Code/nRF/nRF5_SDK_15.3/components/ble/ble_services/
 firmware/Source/Code/nRF/nRF5_SDK_15.3/components/ble/ble_services/*
 !firmware/Source/Code/nRF/nRF5_SDK_15.3/components/ble/ble_services/ble_beep/
+!firmware/Source/Code/nRF/nRF5_SDK_15.3/components/boards/
+firmware/Source/Code/nRF/nRF5_SDK_15.3/components/boards/*
+!firmware/Source/Code/nRF/nRF5_SDK_15.3/components/boards/beepbaseboard.h
