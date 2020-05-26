@@ -4,5 +4,4 @@ ses/Output/
 Octave/
 *Debug
 *.msi
-!firmware/Source/Code/nRF/nRF5_SDK_15.3/documentation/
 firmware/Source/Code/nRF/nRF5_SDK_15.3/nRF5_SDK_15.3.0_offline_doc/
