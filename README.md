@@ -9,6 +9,7 @@ This version features a:
 - 1 mic for on board audio FFT analysis
 - Custom developed PCB (by Ideetron) with Nordic nRF BLE and LoRa
 
+The BEEP base is part of the complete [BEEP system](https://github.com/beepnl/BEEP)
 
 ## Measurement system parts
 
