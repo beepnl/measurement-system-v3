@@ -4,6 +4,8 @@
 - Through holes for S1 (on/off switch) bigger
 - Version number bump to ID190222-04
 
+NB: The component placement file is the .rep file
+
 # PCB layout
 
 ## Top
